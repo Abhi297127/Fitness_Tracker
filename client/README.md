@@ -1,4 +1,4 @@
-# FitTracker Pro - React Frontend
+# FitTracker - React Frontend
 
 A professional, modern React frontend for the FitTracker Pro fitness application built with Bootstrap and comprehensive fitness tracking features.
 
@@ -101,7 +101,7 @@ Create a `.env` file in the root directory if you need custom configurations:
 
 ```env
 REACT_APP_API_URL=http://localhost:5000
-REACT_APP_NAME=FitTracker Pro
+REACT_APP_NAME=FitTracker
 ```
 
 ## 🎨 Design Features
@@ -232,4 +232,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**FitTracker Pro** - Transform your fitness journey with professional tracking and analytics.
+**FitTracker ** - Transform your fitness journey with professional tracking and analytics.
