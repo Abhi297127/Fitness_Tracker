@@ -232,4 +232,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**FitTracker ** - Transform your fitness journey with professional tracking and analytics.
+**FitTracker** - Transform your fitness journey with professional tracking and analytics.
